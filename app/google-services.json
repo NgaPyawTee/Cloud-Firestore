@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605022444251",
+    "project_id": "firestoreui-b530e",
+    "storage_bucket": "firestoreui-b530e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605022444251:android:d49afd6bd46fc0551a4afe",
+        "android_client_info": {
+          "package_name": "com.homework.firestoreui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605022444251-m07a0hnud1c76dhkpgqn742egfc4u31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEpN3WWrOm91Hm1R84ppluzJUA7nKgO3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605022444251-m07a0hnud1c76dhkpgqn742egfc4u31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
