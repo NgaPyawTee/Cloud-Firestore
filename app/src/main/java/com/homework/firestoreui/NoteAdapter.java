@@ -85,4 +85,8 @@ public class NoteAdapter extends FirestoreRecyclerAdapter<Note, NoteAdapter.Note
     public void setListener(Listener listener) {
         interListener = listener;
     }
+
+    public void deleteItem(int position){
+        getSnapshots().getSnapshot(position).getReference().delete();
+    }
 }
